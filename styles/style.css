@@ -27,4 +27,71 @@
       margin: 13px 18px;
       border-radius: 6px;
   }
- 
+
+  .hero{
+    background-image: url(../assets/Hero-bg.png);
+    text-align: center;
+    justify-content: center;
+    margin: 0 166px;
+}
+
+
+.hero-section{
+    margin: 0 166px;
+    padding: 32px 16px;
+}
+.hero-title{
+    font-weight: bolder;
+    font-size: 36px;
+
+
+}
+.hero-massage{
+    font-size: 12px;
+}
+.contact-btn{
+    background-color: #0D1321;
+    border-radius: 6px;
+    color: #FFFFFF;
+    margin: 16px 18px;
+
+}
+/*perspective style*/
+
+.reason-heading{
+    font-weight: bolder;
+    font-size: 24px;
+    text-align: center;
+    margin: 0 250px;
+    padding: 18px 0;
+}
+.reason-massage{
+    font-size: 12px;
+    text-align: center;
+    margin: 0 250px;
+    padding: 36px 0px;
+}
+.reason-sub-heading{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.reason-heading-explanation{
+    font-size: 12px;
+}
+
+.reason{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 184px;
+    padding: 24px 0;
+}
+
+.perspective{
+    margin: 0 111px;
+    
+}
+
+
+
