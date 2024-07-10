@@ -1,0 +1,30 @@
+
+
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #0D1321;
+  }
+  /*navber design*/
+  .navber{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 38px 113px;
+  
+  }
+  .my-name{
+      font-weight: bolder;
+      font-size: 21px;
+  
+  }
+  .resume-btn{
+      font-weight: 700px;
+      font-size: 15px;
+      background-color: none;
+      border: none;
+      margin: 13px 18px;
+      border-radius: 6px;
+  }
+ 
