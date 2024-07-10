@@ -58,6 +58,11 @@
 }
 /*perspective style*/
 
+.perspective{
+    margin: 0 111px;
+    
+}
+
 .reason-heading{
     font-weight: bolder;
     font-size: 24px;
@@ -88,14 +93,56 @@
     padding: 24px 0;
 }
 
-.perspective{
-    margin: 0 111px;
-    
+
+.learn-btn{
+    font-weight: 700px;
+    font-size: 15px;
+    margin: 9px 0px;
 }
+
 
 .inspiration{
     text-align: center;
 }
 
+/*target section style*/
 
+.current-targets{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 200px;
+    padding: 20px 0;
+}
+
+.target-1{
+    background-color: #ff4b1e1c;
+    padding: 40px;
+    
+}
+.target-2{
+    background-color: #004de81c;
+    margin: 0 24px;
+    padding: 40px;
+}
+
+.target-3{
+    background-color: #ffdd001c;
+    padding: 40px;
+}
+
+.target-heading{
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.target-heading-massage{
+    font-size: 12px;
+    text-align: center;
+    margin: 20px 400px;
+}
+
+.target-massage{
+    font-size: 12px;
+}
 
