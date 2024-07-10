@@ -50,12 +50,21 @@
     font-size: 12px;
 }
 .contact-btn{
-    background-color: #0D1321;
+    background-color: #0f1422;
     border-radius: 6px;
-    color: #FFFFFF;
     margin: 16px 18px;
 
 }
+
+.contact-btn a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#support-link{
+ 
+}
+
+
 /*perspective style*/
 
 .perspective{
@@ -207,4 +216,21 @@
     font-weight: 800px;
     font-size: 15px;
     color: #0D1321;
+}
+
+/* footer style*/
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 32px 250px;
+}
+
+.Commitment{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.social-links{
+    justify-content: center;
 }
